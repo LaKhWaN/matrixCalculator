@@ -8,4 +8,4 @@ All you have to do is just download the code from here and extract it anywhere, 
 Open the folder, under that run the `main.py` file. It will run perfectly fine!
 If you still see any error, please raise an issue in this repository.
 
-<h1>Thanks you 😊</h1>
+<h1>Thank you 😊</h1>
